@@ -1,3 +1,5 @@
+// open.kattis.com/problems/encodedmessage
+
 import java.util.Scanner;
 
 public class EncodedMessage {
